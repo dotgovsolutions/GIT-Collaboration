@@ -15,7 +15,7 @@ In this module, you will learn how to use GIT and GitHub to collaborate. with ot
 	9. Explain how to use GitFlow 	10. Use GIT to collaborate
 	11. Use Markdown to create documentation in GitHub
 
-###Prerequisites:
+### Prerequisites:
 
 	1.Git Installed
 	2.Laptop with Windows 10 Pro, Education, or Enterprise* 
