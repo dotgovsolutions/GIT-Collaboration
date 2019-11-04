@@ -21,7 +21,13 @@ In this module, you will learn how to use GIT and GitHub to collaborate. with ot
 	2.Laptop with Windows 10 Pro, Education, or Enterprise* 
 * If you are using a Mac, you need to dual boot your machine to Windows 10 Pro, Education, or Enterprise
 
-## Working with Clones and RemotesAssignment
+## Working with GIT Command Line Remote and Collaboration
+[Complete the remotes tab and submit to Moodle](https://learngitbranching.js.org/?locale=en_US)
+
+## Submission Requirements
+Submit a screen shot of the completed unit homepage that shows check marks on completed units
+
+## Working with Clones and Remotes Assignment
 For this exercise, you need to clone the repository provided for this unit to your local computer.  Once you clone the repository you must remove the origin remote and add your own origin, which will be a repository that you create on GitHub.  You must create a branch called "example" and push the branch to your own GitHub.  To submit this assignment, you will provide a link to the branch on your own repository.
 
 ## Unit Materials:
