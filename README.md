@@ -21,11 +21,15 @@ In this module, you will learn how to use GIT and GitHub to collaborate. with ot
 	2.Laptop with Windows 10 Pro, Education, or Enterprise* 
 * If you are using a Mac, you need to dual boot your machine to Windows 10 Pro, Education, or Enterprise
 
-## Working with Clones and RemotesAssignment   For this exercise, you need to clone the repository provided for this unit to your local computer.  Once you clone the repository you must remove the origin remote and add your own origin, which will be a repository that you create on GitHub.  You must create a branch called "example" and push the branch to your own GitHub.  To submit this assignment, you will provide a link to the branch on your own repository.  ## Unit Materials: 
-	• Use this repository
+## Working with Clones and RemotesAssignment
+For this exercise, you need to clone the repository provided for this unit to your local computer.  Once you clone the repository you must remove the origin remote and add your own origin, which will be a repository that you create on GitHub.  You must create a branch called "example" and push the branch to your own GitHub.  To submit this assignment, you will provide a link to the branch on your own repository.
+
+## Unit Materials:
+	• [Use this repository](https://github.com/dotgovsolutions/Git-Collaboration-Practice)
 ### Submission requirements:
 	• Submit a link to the branch you push to your own repository 
-	• Working with Forks and Pull RequestsAssignment  For this exercise, you need to fork the repository provided for this module and submit a pull request to add your name to the README.MD file. 
+	• Working with Forks and Pull RequestsAssignment
+	* For this exercise, you need to fork the repository provided for this module and submit a pull request to add your name to the README.MD file.
 ##  Unit Materials:
 	• Use this repository
 	* Note: You may need to rename the repository on your own account, so it doesn't conflict with the repository you cloned in the last unit
