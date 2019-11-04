@@ -25,7 +25,7 @@ In this module, you will learn how to use GIT and GitHub to collaborate. with ot
 For this exercise, you need to clone the repository provided for this unit to your local computer.  Once you clone the repository you must remove the origin remote and add your own origin, which will be a repository that you create on GitHub.  You must create a branch called "example" and push the branch to your own GitHub.  To submit this assignment, you will provide a link to the branch on your own repository.
 
 ## Unit Materials:
-	• [Use this repository](https://github.com/dotgovsolutions/Git-Collaboration-Practice)
+[Use this repository](https://github.com/dotgovsolutions/Git-Collaboration-Practice)
 ### Submission requirements:
 	• Submit a link to the branch you push to your own repository 
 	• Working with Forks and Pull RequestsAssignment
